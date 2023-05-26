@@ -160,3 +160,14 @@ border-bottom-right-radius: 12px;
 .card:hover .card__info-hover {
     opacity: 1;
 }
+
+#title
+{
+  text-align: center;
+	font-family: 'Raleway', sans-serif;
+	text-align: center;
+	text-shadow: 0 1px 9px rgba(#000, 0.8);
+	margin: auto;
+	margin-top: 0;
+	padding-top: 7vh;
+}
